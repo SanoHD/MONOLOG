@@ -1,4 +1,4 @@
-import sys, os, shlex, requests, random, base64, requests, ping3, string
+import sys, os, shlex, requests, random, base64, ping3, string
 
 var = {}
 commentsymbol = ";"
